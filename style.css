@@ -22,11 +22,13 @@ html {
 
 .container {
     position: relative;
-    width: 1200px;
+    width: 80%;
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 5.5rem;
+    margin-left: 10%;
+    margin-right: 10%;
     gap: 20px;
     flex-wrap: wrap;    
 }
